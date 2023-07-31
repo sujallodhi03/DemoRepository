@@ -2,7 +2,6 @@
 
 int main(){
 	int a;
-	int b;
-	int c;
+	char b;
 	return 0;
 }
